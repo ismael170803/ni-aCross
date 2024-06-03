@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245653875302",
+    "project_id": "ventasmotos-9522d",
+    "storage_bucket": "ventasmotos-9522d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245653875302:android:e1569c6775961d7d79dba7",
+        "android_client_info": {
+          "package_name": "com.example.motosventa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wQmzVW4X11tSJP2RXHue5uhrlpCiSaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
