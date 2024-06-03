@@ -6,5 +6,70 @@
     <color name="ColorPrimary">#3F51b5</color>
     <color name="ColorPrimaryDark">#0F97A1</color>
 
+    //colores
+    <color name="lightaccent">#491f53</color>
+    <color name="lightprimary">#4B0082</color>
+    <color name="lightprimarydark">#2E0854</color>
+    <color name="lightbackground">#3D0C47</color>
+    <color name="lightsurface">#56027F</color>
+    <color name="lighterror">#66023C</color>
+    <color name="lightonprimary">#4B0082</color>
+    <color name="lightonsecondary">#7D2181</color>
+    <color name="lightonbackground">#7B1FA2</color>
+    <color name="lightonsurface">#6A0DAD</color>
+    <color name="lightonerror">#731C71</color>
+    <color name="lightprimarylight">#8B008B</color>
+    <color name="lightsecondary">#4C0082</color>
+    <color name="lightsecondarylight">#9932CC</color>
+    <color name="lightsecondarydark">#301934</color>
+    <color name="lightprimaryvariant">#5A0D7E</color>
+    <color name="lightsecondaryvariant">#6A5ACD</color>
+    <color name="lightdivider">#7F00FF</color>
+    <color name="lighttextprimary">#D8BFD8</color>
+    <color name="lighttextsecondary">#9B30FF</color>
+    <color name="lighttexthint">#AB82FF</color>
+    <color name="lighttextdisabled">#8A2BE2</color>
+    <color name="lightbutton">#9400D3</color>
+    <color name="lightbuttontext">#BA55D3</color>
+    <color name="lightcardbackground">#9370DB</color>
+    <color name="lightchipbackground">#DA70D6</color>
+    <color name="lightdialogbackground">#E6E6FA</color>
+    <color name="lightappbarbackground">#A020F0</color>
+    <color name="lighttabindicator">#8B008B</color>
+    <color name="lighticon">#9400D3</color>
+
+    //colores oscuro
+
+    <color name="darkaccent">#A426FF</color>
+    <color name="darkprimary">#4B0082</color>
+    <color name="darkprimarydark">#2E0854</color>
+    <color name="darkbackground">#3D0C47</color>
+    <color name="darksurface">#56027F</color>
+    <color name="darkerror">#66023C</color>
+    <color name="darkonprimary">#7A00FF</color>
+    <color name="darkonsecondary">#9A32CD</color>
+    <color name="darkonbackground">#8B008B</color>
+    <color name="darkonsurface">#9B30FF</color>
+    <color name="darkonerror">#AB82FF</color>
+    <color name="darkprimarylight">#BA55D3</color>
+    <color name="darksecondary">#9370DB</color>
+    <color name="darksecondarylight">#A020F0</color>
+    <color name="darksecondarydark">#8A2BE2</color>
+    <color name="darkprimaryvariant">#9400D3</color>
+    <color name="darksecondaryvariant">#9932CC</color>
+    <color name="darkdivider">#800080</color>
+    <color name="darktextprimary">#D8BFD8</color>
+    <color name="darktextsecondary">#E6E6FA</color>
+    <color name="darktexthint">#DDA0DD</color>
+    <color name="darktextdisabled">#DA70D6</color>
+    <color name="darkbutton">#FF00FF</color>
+    <color name="darkbuttontext">#EE82EE</color>
+    <color name="darkcardbackground">#D291BC</color>
+    <color name="darkchipbackground">#C71585</color>
+    <color name="darkdialogbackground">#DB7093</color>
+    <color name="darkappbarbackground">#E0B0FF</color>
+    <color name="darktabindicator">#D8BFD8</color>
+    <color name="darkicon">#9F00FF</color>
+    <color name="darkhighlight">#8B00FF</color>
 
 </resources>
