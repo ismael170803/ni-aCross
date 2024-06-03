@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:background="#202732">
-
     <EditText
         android:id="@+id/edtEmail"
         android:layout_width="match_parent"
@@ -24,7 +23,6 @@
         app:layout_constraintHorizontal_bias="0.537"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
     <EditText
         android:id="@+id/edtPassword"
         android:layout_width="match_parent"
@@ -41,7 +39,6 @@
         app:layout_constraintHorizontal_bias="0.542"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edtEmail" />
-
     <Button
         android:id="@+id/btnIngresar"
         android:layout_width="wrap_content"
@@ -58,7 +55,6 @@
         app:layout_constraintTop_toBottomOf="@+id/edtPassword"
         app:rippleColor="#278179"
         app:strokeColor="#278179" />
-
     <TextView
         android:id="@+id/btnCrearCuenta"
         android:layout_width="wrap_content"
@@ -75,7 +71,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edtPassword"
         tools:text="@string/Crear_Cuenta" />
-
     <TextView
         android:id="@+id/btnOlvidar"
         android:layout_width="wrap_content"
@@ -91,7 +86,6 @@
         app:layout_constraintHorizontal_bias="0.101"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edtPassword" />
-
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
